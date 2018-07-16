@@ -4,6 +4,7 @@
 An introduction.
 
 ##Purpose
+A purpose.
 
 ##How to contribute
 
