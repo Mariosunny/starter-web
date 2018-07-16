@@ -11,3 +11,6 @@ A purpose.
 ##Deployment
 
 ##Description
+
+##Copyright
+Copyright notice.
